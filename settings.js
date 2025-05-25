@@ -11,7 +11,7 @@ PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
 BOT_NAME: process.env.BOT_NAME || "ᴍᴀʟᴠɪɴ-xᴅ",
 // add bot name here for menu
-MODE: process.env.MODE || "private",
+MODE: process.env.MODE || "public",
 // make bot public-private-inbox-group 
 
 
@@ -94,7 +94,7 @@ OWNER_NAME: process.env.OWNER_NAME || "ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ",
         ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
 // maks true for always online 
 
-         PUBLIC_MODE: process.env.PUBLIC_MODE || "false",
+         PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
 // make false if want private mod
 
         AUTO_TYPING: process.env.AUTO_TYPING || "false",
